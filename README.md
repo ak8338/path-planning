@@ -57,3 +57,8 @@ point numbers.
 
 
 Sample Input and Output are attached.
+
+Instructions how to run:
+- Save the input file in the same directory as the source code. Replace input.txt after “if
+__name__ == "__main__":” with the name of the input file. The output file will be generated in
+the same directory as the source code
